@@ -21,10 +21,27 @@ require_once 'templates/header.php';
         <p>Grado superior en Animaciones 3D, Juegos y Entornos Interactivos en el IES Paco Ruiz (2021-2023), el cual me dota de conocimientos en Blender, aplicaciones como ADOBE Photoshop, Premiere, Illustrator y After Effects para la edicion de fotos y videos.</p>
         <p>Grado superior en Desarrollo de Aplicaciones Web en el IES Maciá Abela (2024-2026), gracias al cual tengo conocimientos avanzados de edición de paginas web en Wordpress Elementor, como en HTML, CSS y PHP. Tanto con la ayuda de IA como sin ella.</p>
     </div>
-    <div class="intro-visuals" aria-label="Espacio reservado para imágenes de presentación">
-        <div class="image-placeholder image-one"><img class="image-macia-abela" src="static/img/IESMaciaAbela.jpeg" alt="IES Macia Abela"></div>
-        <div class="image-placeholder image-two"><img class="image-paco-ruiz" src="static/img/IESPacoRuiz.jpg" alt="IES Paco Ruiz"></div>
+    <div class="skills-visuals" aria-label="Nivel de conocimientos">
+    <div class="skill" style="--level: 85;">
+        <img src="static/img/blender.png" alt="Blender">
+        <span class="skill-level">85%</span>
     </div>
+
+    <div class="skill" style="--level: 70;">
+        <img src="static/img/adobe.png" alt="Adobe">
+        <span class="skill-level">70%</span>
+    </div>
+
+    <div class="skill" style="--level: 70;">
+        <img src="static/img/php.png" alt="PHP">
+        <span class="skill-level">70%</span>
+    </div>
+
+    <div class="skill" style="--level: 90;">
+        <img src="static/img/wordpress.png" alt="WordPress">
+        <span class="skill-level">90%</span>
+    </div>
+</div>
 </section>
 
 <section class="services section-space">

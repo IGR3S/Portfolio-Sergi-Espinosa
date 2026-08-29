@@ -10,7 +10,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
     <meta name="description" content="Portfolio de Sergi Espinosa, diseñador y desarrollador web.">
     <title><?= htmlspecialchars($pageTitle, ENT_QUOTES, 'UTF-8') ?></title>
     <link rel="icon" type="image/png" href="static/img/Logo.png">
-    <link rel="stylesheet" href="static/css/estilo_B.css">
+    <link rel="stylesheet" href="static/css/estilo_A.css">
 </head>
 <body>
     <header class="site-header">
