@@ -13,8 +13,7 @@ $projects = [
 
 <section class="page-heading container">
     <p class="eyebrow eyebrow-purple">Selección de trabajos</p>
-    <h1>Proyectos que<br>cuentan historias.</h1>
-    <p>Una muestra de propuestas digitales, identidades y experiencias creadas con intención.</p>
+    <h1>Mis Proyectos.</h1>
 </section>
 
 <section class="projects container">
